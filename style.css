@@ -5,7 +5,8 @@ body{
     background-color: rgb(96, 161, 96);
     font-size: 60PX;
     text-align: center;
-    border: 200px;
+    border: solid;
+    border-radius: 10px;
 }
 .moral{
     font-size: 30px;
