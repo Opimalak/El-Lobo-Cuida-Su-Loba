@@ -10,7 +10,7 @@ body{
     border-radius: 100px;
     border-width: 10px;
     color: white;
-    text-decoration: solid;
+    font-family: fantasy;
 }
 .moral{
     font-size: 30px;
