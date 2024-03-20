@@ -1,4 +1,6 @@
-
+h1{
+    text-align: center;
+}
 body{
     background-color: rgb(96, 161, 96);
     font-size: 40PX;
