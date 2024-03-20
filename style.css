@@ -9,6 +9,7 @@ body{
     border-radius: 30px;
     border-width: 10px;
     color: white;
+    border-left-color: brown;
 }
 .moral{
     font-size: 30px;
