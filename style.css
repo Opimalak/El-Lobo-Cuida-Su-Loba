@@ -2,7 +2,7 @@ body{
     background-color: rgb(96, 161, 96);
     font-size: 40PX;
     text-align: center;
-    border: 10px;
+    border: solid;
 }
 .moral{
     font-size: 10px;
